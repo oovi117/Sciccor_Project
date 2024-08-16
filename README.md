@@ -27,7 +27,7 @@ Request Body:{
 }
 
 Response: {
-"shortUrl": "http://localhost:5000/custom-slug",
+"shortUrl": "http://localhost:3000/custom-slug",
 "qrCode": "data:image/png;base64,..."
 }
 
